@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(img/slider.jpg);
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: auto;
+    margin-top: 87px;
+    background: none;
+    width: 485px;
+    text-align: center;
+}
+
+#branding {
+    color: #ffffff;
+}
+
+#branding #brand-red {
+    color: #f55656;
+    /* font-size: 32px; */
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.loginTxt {
+    width: 180px;
+    border-radius: 50px;
+    background: none;
+    border: 2px solid #ffffff;
+    display: block;
+    padding: 8px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#signTxt {
+    width: 200px;
+    border-radius: 50px;
+    background: #f55656;
+    border: 2px solid #ffffff;
+    display: block;
+    margin-bottom: 60px;
+    padding: 8px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.container form {
+    margin-top: 80px;
+    position: relative;
+    left: 136px;
+}
+
+.container p {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.container>p span#text-size {
+    font-size: 1.6em;
+}
